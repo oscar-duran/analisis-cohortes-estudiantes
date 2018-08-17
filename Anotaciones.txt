@@ -1,0 +1,7 @@
+A Hasta 2009
+B 2010 - 2019
+
+
+Graduados <- read_excel("data/Graduados-I-2017.xls")
+Cursos <- read_excel("data/Cursos-I-2017.xls")
+Estudiantes <- read_excel("data/Estudiantes-I-2017.xls")
